@@ -1,0 +1,52 @@
+/* Nimbus Design System - Tokens */
+:root {
+  /* Brand */
+  --nb-blue-100: #E8F1FF;
+  --nb-blue-200: #C2D9FF;
+  --nb-blue-300: #8AB4F8;
+  --nb-blue-400: #4A8EF5;
+  --nb-blue-500: #1B6EF3;
+  --nb-blue-600: #1259D0;
+  --nb-blue-700: #0B44A8;
+  --nb-blue-800: #063080;
+
+  /* Neutral */
+  --nb-neutral-0:   #FFFFFF;
+  --nb-neutral-50:  #F7F9FC;
+  --nb-neutral-100: #EDF1F7;
+  --nb-neutral-200: #D8E0ED;
+  --nb-neutral-300: #B0BCCE;
+  --nb-neutral-400: #8896AB;
+  --nb-neutral-500: #5E6E87;
+  --nb-neutral-600: #3D4D63;
+  --nb-neutral-700: #243142;
+  --nb-neutral-800: #111C2D;
+
+  /* Feedback */
+  --nb-green-100: #E6FAF0;
+  --nb-green-500: #0FA958;
+  --nb-green-600: #0A8645;
+
+  --nb-yellow-100: #FFF8E1;
+  --nb-yellow-500: #F5A623;
+  --nb-yellow-600: #C77F00;
+
+  --nb-red-100: #FDECEA;
+  --nb-red-500: #E53E3E;
+  --nb-red-600: #B91C1C;
+
+  /* Typography */
+  --nb-font: 'Nunito Sans', 'Segoe UI', system-ui, sans-serif;
+  --nb-font-mono: 'IBM Plex Mono', 'Fira Code', monospace;
+
+  /* Sizing */
+  --nb-radius-sm: 4px;
+  --nb-radius-md: 8px;
+  --nb-radius-lg: 12px;
+  --nb-radius-full: 9999px;
+
+  /* Shadow */
+  --nb-shadow-sm: 0 1px 3px rgba(17,28,45,0.08), 0 1px 2px rgba(17,28,45,0.06);
+  --nb-shadow-md: 0 4px 12px rgba(17,28,45,0.10), 0 2px 6px rgba(17,28,45,0.06);
+  --nb-shadow-lg: 0 8px 24px rgba(17,28,45,0.12), 0 4px 8px rgba(17,28,45,0.08);
+}
