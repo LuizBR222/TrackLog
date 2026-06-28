@@ -27,7 +27,11 @@ CREATE TABLE IF NOT EXISTS historico_status (
   criado_em TIMESTAMP DEFAULT NOW()
 );
 
+<<<<<<< HEAD
 -- Dados de seed como exemplo
+=======
+-- Dados de seed pra demostrar
+>>>>>>> e87be4665c85567272892e7600e859706560ee03
 INSERT INTO usuarios (nome, email) VALUES
   ('João Silva', 'joao@email.com'),
   ('Maria Santos', 'maria@email.com')
