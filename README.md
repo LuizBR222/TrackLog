@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 > 🇧🇷 [Versão em Português](README.pt-br.md)
 
 # TrackLog — Delivery Tracking System
