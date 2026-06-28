@@ -10,13 +10,12 @@ Sistema distribuído de logística com processamento assíncrono via Apache Kafk
 
 ## Screenshots
 
-> <p align="center">
+<p align="center">
   <img src="screenshots/1.png" width="50%" alt="Tela Principal" />
   <img src="screenshots/2.png" width="50%" alt="Segunda Tela" />
   <img src="screenshots/3.png" width="50%" alt="Terceira Tela" />
-<img src="screenshots/4.png" width="50%" alt="Quarta Tela" />
+  <img src="screenshots/4.png" width="50%" alt="Quarta Tela" />
 </p>
-
 
 ---
 
